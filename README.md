@@ -1,6 +1,6 @@
 # firebase rule test
 
-<img src="https://github.com/loydkim/Firebase_rule_test/blob/master/firebaseRuletest.gif" width="600" height="280">
+<img src="https://github.com/loydkim/Firebase_rule_test/blob/master/firebaseRuletest.gif" width="600" height="300">
 
 ** Please click the Image to know how it works **
 
