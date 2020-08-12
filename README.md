@@ -1,6 +1,8 @@
-# firebaseruletest
+# firebase rule test
 
-A new Flutter application.
+** Please click the Image to know how it works **
+
+[![Youtube](https://img.youtube.com/vi/cJ4MdHhE87Y/0.jpg)](https://youtu.be/cJ4MdHhE87Y)
 
 ## Getting Started
 
